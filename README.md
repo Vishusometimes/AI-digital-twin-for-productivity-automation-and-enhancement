@@ -24,7 +24,7 @@ Our AI-powered **Digital Twin System** acts as a virtual representation of an em
 ## ⚙️ Core Technologies Used
 | Technology | Description | Examples |
 |-------------|--------------|-----------|
-| **Natural Language Processing (NLP)** | Enables chat/voice understanding | Google Dialogflow, Microsoft LUIS |
+| **Natural Language Processing (NLP)** | Enables chat/voice understanding | Google Dialogflow, Microsoft LUIS, Elevenlabs|
 | **Machine Learning & AI** | Learns from interactions and improves | TensorFlow, PyTorch |
 | **Automation & Workflow Management** | Automates repetitive tasks | Zapier, UiPath |
 | **Cloud & Backend Servers** | Handles real-time data and API requests | AWS, Firebase |
